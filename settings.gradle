@@ -1,2 +1,4 @@
 rootProject.name = "AndroidEx"
 include ':app'
+include ':ex421'
+include ':ex422'
