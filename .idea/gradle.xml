@@ -11,17 +11,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/ex521" />
-            <option value="$PROJECT_DIR$/ex522" />
-            <option value="$PROJECT_DIR$/ex531" />
-            <option value="$PROJECT_DIR$/ex541" />
-            <option value="$PROJECT_DIR$/ex551" />
-            <option value="$PROJECT_DIR$/ex561" />
-            <option value="$PROJECT_DIR$/ex621" />
-            <option value="$PROJECT_DIR$/ex631" />
-            <option value="$PROJECT_DIR$/ex641" />
-            <option value="$PROJECT_DIR$/ex651" />
-            <option value="$PROJECT_DIR$/ex661" />
+            <option value="$PROJECT_DIR$/ex0521" />
+            <option value="$PROJECT_DIR$/ex0522" />
+            <option value="$PROJECT_DIR$/ex0531" />
+            <option value="$PROJECT_DIR$/ex0541" />
+            <option value="$PROJECT_DIR$/ex0551" />
+            <option value="$PROJECT_DIR$/ex0561" />
+            <option value="$PROJECT_DIR$/ex0621" />
+            <option value="$PROJECT_DIR$/ex0631" />
+            <option value="$PROJECT_DIR$/ex0641" />
+            <option value="$PROJECT_DIR$/ex0651" />
+            <option value="$PROJECT_DIR$/ex0661" />
+            <option value="$PROJECT_DIR$/ex0721" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
