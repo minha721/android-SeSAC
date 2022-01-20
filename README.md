@@ -91,3 +91,11 @@
 |:---:|---|
 |ex1511|1번 버튼을 누르면 진동, 2번 버튼을 누르면 시스템의 기본 효과음이 울리게 하는 예제|
 |ex1521|버튼을 눌렀을 때 각각 AlertDialog, 목록 다이얼로그, DatePicker 다이얼로그, TimePicker 다이얼로그가<br> 띄워지고 클릭시 아이템에 대한 토스트 메시지가 나오도록 하는 예제|
+
+**16강**
+
+|모듈명|내용|
+|:---:|---|
+|ex1621|SharedPreference 예제, 화면의 edit text와 체크 박스에 데이터를 입력하고 <br>첫번째 버튼 누르면 데이터 저장하고 두번째 버튼 누르면 저장된 데이터 조회|
+|ex1631|settings.xml 예제, SwitchPreference 3개가 그룹으로 구분되어서 출력|
+|ex1641|PreferenceFragmentCompat 예제, 상위 설정이 disable이면 하위 설정은 비활성 상태로,<br> enable이면 하위 설정은 활성 상태로 변하게 하고 값 입력시 summary가 바뀌는 예제|
