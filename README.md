@@ -99,3 +99,11 @@
 |ex1621|SharedPreference 예제, 화면의 edit text와 체크 박스에 데이터를 입력하고 <br>첫번째 버튼 누르면 데이터 저장하고 두번째 버튼 누르면 저장된 데이터 조회|
 |ex1631|settings.xml 예제, SwitchPreference 3개가 그룹으로 구분되어서 출력|
 |ex1641|PreferenceFragmentCompat 예제, 상위 설정이 disable이면 하위 설정은 비활성 상태로,<br> enable이면 하위 설정은 활성 상태로 변하게 하고 값 입력시 summary가 바뀌는 예제|
+
+**17강**
+
+|모듈명|내용|
+|:---:|---|
+|ex1721|OpenHelper에서 데이터 insert 처리를 한 후, 애플리케이션 내의 버튼 누르면 데이터를 select 해서 <br>출력하는 예제|
+|ex1731|MainActivity에서 글을 입력 받고 add 버튼을 누르면 db에 insert하고 화면 전환, ReadActivity에서 <br>select문으로 결과값 화면에 출력하는 예제|
+|ex1741|ex1731과 동일, rawQuery(), execSql() 함수가 아닌 insert(), query() 함수로 sql문 작성|
