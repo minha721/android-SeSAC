@@ -136,3 +136,11 @@
 |:---:|---|
 |ex2121|버튼을 눌렀을 때 notification이 뜨도록 하는 예제|
 |ex2131|notification에 event, action, bigPictureStyle을 적용하는 예제|
+
+**23강**
+
+|모듈명|내용|
+|:---:|---|
+|ex2321|LocationManager를 이용해 현재 위치 위도, 경도로 출력|
+|ex2331|Fused API를 이용해 현재 위치 위도, 경도로 출력|
+|ex2341|구글 지도 출력(서울 시청 중심)|
