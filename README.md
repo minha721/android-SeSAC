@@ -137,6 +137,12 @@
 |ex2121|버튼을 눌렀을 때 notification이 뜨도록 하는 예제|
 |ex2131|notification에 event, action, bigPictureStyle을 적용하는 예제|
 
+**22강**
+
+|모듈명|내용|
+|:---:|---|
+|ex2241|버튼을 누르는 순간 JobService를 등록, 앱을 백그라운드 상태로 변경시키고 지정한 특정 상황이 <br>시스템에서 발생했을 때 JobService가 실행되는 지 확인|
+
 **23강**
 
 |모듈명|내용|
