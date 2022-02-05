@@ -174,4 +174,10 @@
 |ex2631|프래그먼트 3개를 뷰페이저에 동적 등록해서 출력하는 예제|
 |ex2641|Toolbar 적용 예제|
 |ex2651|FloatingActionButton 적용 예제, 터치 했을 때 글자가 나왔다 안나왔다 하게 함|
-|ex2661|DrawerLayout 적용 예제, 토글 버튼이나 스와이프로 DrawerLayout이 나오고<br> DrawerLayout은 Header 영역과 목록 영역으로 구성|
+|ex2661|DrawerLayout 적용 예제, 토글 버튼이나 스와이프로 DrawerLayout이 나오고<br> DrawerLayout은 Header 영역과 목록 영역으로 구성
+
+**27강**
+
+|모듈명|내용|
+|:---:|---|
+|ex2741|뷰모델에서 데이터를 LiveData로 받아오고 Activity에서는 이를 observer로 받아서 출력하는 예제|
